@@ -1,2 +1,4 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+[Did ChatGPT Write This Article?](https://gwtoday.gwu.edu/did-chatgpt-write-article)
+
+This article is interesting because it delves into the possiblity of what AI can accomplish, especially with the introduction of ChatGPT. Although it isn't perfect, ChatGPT is a huge leap forward on what AI can do. Both students and teachers can use this technology to create a better learning environment for each other. The drawbacks, however, are still present in this technology. It is biased based on its human operater, and will not be 100% accurate, especially if not given enough context on the task its given. Despite that, it is clear that the evolution of this technology will have an impact on our future.
